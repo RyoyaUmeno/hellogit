@@ -1,3 +1,3 @@
 # hellogit
 
-gitの実習中
+gitの実習中(^^)
