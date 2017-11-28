@@ -2,5 +2,5 @@
 
 gitの実習中(^^)
 
-conflict の　解消法
+conflict の　解消法...!
 
